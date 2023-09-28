@@ -7,6 +7,8 @@ public class test1 {
 		System.out.println("+++++++++");
 		System.out.println("---------");
 		System.out.println("**********");
+		System.out.println("///////////");
+		System.out.println("~~~~~~~~~~~~");
 
 	}
 
